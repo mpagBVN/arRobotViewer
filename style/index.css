@@ -41,7 +41,7 @@ button {
   font-size: 1.0em;
 }
 
-button:active {
+button:visited {
   background-color: black;
 }
 
